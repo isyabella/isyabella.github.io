@@ -1,0 +1,12 @@
+.nav-link{
+	color: #D70B0B;
+	font-family: serif;
+	font-size: 18px;
+}
+.nav-pills{
+	padding: 25px;
+}
+
+.card-body p{
+	text-decoration: none;
+}
